@@ -1,0 +1,6 @@
+[dev]
+
+
+[rege]
+{{$options.sites.static}} = (../){2}static\.orayimg\.com
+{{$options.sites.oray}} = https?:\/{2}www\.oray\.com
